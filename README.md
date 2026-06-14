@@ -6,8 +6,7 @@
 
     <="Artificial Intelligence"/>
         <h2>Am Duncan</h2>
-        <p>I'm a student currently learning Artificial Intelligence Course.
-           I'm interested in AI and Machine Lerning].</p>
+        <p>I'm a student currently learning Artificial Intelligence Course.<br>I'm interested in AI and Machine Lerning].</p>
     
 
     
