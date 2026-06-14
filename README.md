@@ -4,13 +4,13 @@
 <body>
     <h1>Welcome! I'm Duncan Mugo</h1>
 
-    <div class="Artificial Intelligence">
+    <="Artificial Intelligence"/>
         <h2>Am Duncan</h2>
         <p>I'm a student currently learning Artificial Intelligence Course.
-           I'm interested in AI andachine Lerning].</p>
-    </div>
+           I'm interested in AI and Machine Lerning].</p>
+    
 
-    <div class="section">
+    
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
