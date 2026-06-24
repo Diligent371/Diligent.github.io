@@ -1,4 +1,5 @@
-</head>
+</head> 
+<link rel="stylesheet" href="style.css">
 <body style="background-color: "red">
 
  <h1>Welcome!</h1>
