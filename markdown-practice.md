@@ -23,3 +23,8 @@
   |------|--------|------|
   |      |        |      |
   |------|--------|------|
+
+- [x] Introdution to AI
+- [x] Github Page
+- [ ] Chat bot 
+- [ ] Python odes
